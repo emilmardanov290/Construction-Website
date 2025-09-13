@@ -177,13 +177,19 @@ nav ul li a:hover{
     display: flex;
     flex-direction: column;
     text-align: center;
+    padding: 3em;
 }
 #forth-part img{
     margin-top: 8em;
+    width: 60%;
+    margin: auto;
 }
 #text-in-forth-part{
     display:flex;
     flex-direction: column;
+    width: 40%;
+    margin: auto;
+    min-width: 395px;
 }
 #text-in-forth-part h2{
     font-family: Arial, Helvetica, sans-serif;
