@@ -283,7 +283,7 @@ nav ul li a:hover{
     margin-bottom:0.5em;
 }
 #input-group input,textarea{
-    width: 24em;
+    width: 20em;
     height: 2.5em; 
     resize: none;   
     padding: 5px;  
@@ -293,7 +293,7 @@ nav ul li a:hover{
 }
 #input-group textarea{
     height: 8em;
-    width: 24em;
+    width: 20em;
 }
 #input-group a{
     margin-top: 0,5em;
